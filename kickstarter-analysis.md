@@ -6,9 +6,9 @@ The Kickstarter project is a set of data collected in order to review the outcom
 To determine if any given kickstarter project was succesful, failed or canceled based on Goals vs Pledge
 ## Analysis and Challenges
 
-![Overview of the Analysis PIVOT TABLES](/assets/images/overview _of_the_analysis.png)
+![Overview of the Analysis PIVOT TABLES](/Resources/overview _of_the_analysis.png)
 
-![Overview of the Analysis LOOKUPS](/assets/images/overview _of_the_analysis_V2.png)
+![Overview of the Analysis LOOKUPS](/Resources/overview _of_the_analysis_V2.png)
 
 The analysis was performed mainly through the use of:
 - Pivot Tables, 
@@ -22,7 +22,7 @@ It was also imperative to understand well the use of each graph IAW the availabl
 
 ### Analysis of Outcomes Based on Launch Date
 
-![Theatre Outcomes based on Launch Date](/assets/images/Outcome_Based_on_Launch_Date.png)
+![Theatre Outcomes based on Launch Date](/Resources/Outcome_Based_on_Launch_Date.png)
 
 **Conclusion 1** The Outcomes Based on Launch Date for Theatre, shows May (at 111) with the larger number of Succesful whereas in December (at 37) went closer to those Failed (at 35). May is the month were Succesful kickstarter projects start dicreasing, and eventhough between September (at 59)  and October (at 65) it tends to increase, it goes down  in December to almost reach the number of Failed.
 
@@ -30,7 +30,7 @@ It was also imperative to understand well the use of each graph IAW the availabl
 
 ### Analysis of Outcomes Based on Goals
 
-![Plays Outcomes vs Goals](/assets/images/Outcomes_vs_Goals.png)
+![Plays Outcomes vs Goals](/Resources/Outcomes_vs_Goals.png)
 
 **Conclusion 1**  The higher the Goal the higher the probability for the Play to Fail. 
 
@@ -40,7 +40,7 @@ It was also imperative to understand well the use of each graph IAW the availabl
 
 ### Challenges and Difficulties Encountered
 
-![Plays Outcomes vs Goals V2](/assets/images/Outcomes_vs_Goals_V2.png)
+![Plays Outcomes vs Goals V2](/Resources/Outcomes_vs_Goals_V2.png)
 
 A line graph is not appropiate to analyze this data as each point has its own behaviour, this is not a trend, a bar graph will show the numbers clearer; from the previous line graph, it could only be concluded that failed and successful plays are mirroring each other. The Highlighted in the image above, allowed to draw the conclusion from 1 to 3 in the previous section.
 
@@ -48,7 +48,7 @@ A line graph is not appropiate to analyze this data as each point has its own be
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-![All Outcomes based on Launch Date](/assets/images/Outcome_Based_on_Launch_Date.png)
+![All Outcomes based on Launch Date](/Resources/Outcome_Based_on_Launch_Date.png)
 
 *Conclusion 1*
 
